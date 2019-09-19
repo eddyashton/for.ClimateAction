@@ -10,7 +10,7 @@ But first, we have to acknowledge our company's role in our warming planet.
 
 Microsoft makes millions of dollars in profits by helping fossil fuel companies extract more oil. In this week's company-wide all-hands, our CEO, Satya Nadella, defended our contracts with Big Oil by suggesting that our technology helps them in their R&D efforts to develop sustainable energy. Yet, this is in clear contradiction to the ambitions of fossil fuel-CEOs and even other Microsoft leaders: Azure Executive Tom Keane, in discussing [Microsoft's multimillion dollar contract with Chevron](https://news.microsoft.com/transform/chevron-fuels-digital-transformation-with-new-microsoft-partnership/), asked "How can we [..] more efficiently do oil exploration? Or more efficiently do sensor management from an offshore oil rig?" 
 
-Furthermore, Microsoft struck a deal last year with Norweigen petroleum company Equinor worth ["hundreds of millions of dollars"](https://www.marketscreener.com/EQUINOR-1413290/news/Equinor-and-Microsoft-in-Cloud-Services-Partnership-Deal-26794775/) and participated in an oil and gas conference with the goal of ["Empowering Oil and Gas with AI."](https://news.microsoft.com/en-xm/2018/11/12/microsoft-demonstrates-the-power-of-ai-and-cloud-to-oil-and-gas-players-at-adipec-2018/ ) Earlier this year, Microsoft announced a new contract with [Exxon Mobil](https://www.reuters.com/article/us-exxon-mobil-microsoft-cloud/exxon-microsoft-strike-cloud-computing-agreement-for-u-s-shale-idUSKCN1QB1N8
+Furthermore, Microsoft struck a deal last year with Norwegian petroleum company Equinor worth ["hundreds of millions of dollars"](https://www.marketscreener.com/EQUINOR-1413290/news/Equinor-and-Microsoft-in-Cloud-Services-Partnership-Deal-26794775/) and participated in an oil and gas conference with the goal of ["Empowering Oil and Gas with AI."](https://news.microsoft.com/en-xm/2018/11/12/microsoft-demonstrates-the-power-of-ai-and-cloud-to-oil-and-gas-players-at-adipec-2018/ ) Earlier this year, Microsoft announced a new contract with [Exxon Mobil](https://www.reuters.com/article/us-exxon-mobil-microsoft-cloud/exxon-microsoft-strike-cloud-computing-agreement-for-u-s-shale-idUSKCN1QB1N8
 ), which the company boasts to be "the industry's largest in cloud computing." 
 
 As Microsoft workers, we've been made complicit.
@@ -24,7 +24,7 @@ Following our mission to "Empower every person and every organization in the pla
 Big Oil should not have the luxury of choosing the most convenient and profitable service. It is imperative that all tech companies stand together, denounce the usage of Cloud and AI services for non-renewable energy extraction, and work together to put an end to fossil fuel consumption.
 
 We stand with the [Amazon](https://medium.com/@amazonemployeesclimatejustice/amazon-employees-are-joining-the-global-climate-walkout-9-20-9bfa4cbb1ce3
-) and [Google](https://medium.com/@googworkersac/google-workers-are-striking-for-climate-sept-20-7eba2100b621) by supporting their demands: 
+) and [Google](https://medium.com/@googworkersac/google-workers-are-striking-for-climate-sept-20-7eba2100b621) employees by supporting their demands: 
 - __Zero emissions by 2030.__ 
 - __Zero contracts for fossil fuel companies to accelerate oil and gas extraction.__ 
 - __Zero funding for climate denying lobbyists and politicians.__
